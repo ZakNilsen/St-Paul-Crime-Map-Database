@@ -1,0 +1,29 @@
+{
+    "name": "RESTfulServer",
+    "version": "0.0.0",
+    "description": "RESTful Webserver using Node.js",
+    "author": {
+        "name": "Jonathan Dooley",
+        "email": "dool3142@stthomas.edu"
+    },
+    "contributors": [
+        {
+            "name": "Carter Leising",
+            "email": "leis9549@stthomas.edu"
+        },
+        {
+            "name": "Zak Nilsen",
+            "email": "zak.nilsen@stthomas.edu"
+        }
+    ],
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jonathan-dooley24/restful_server"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "sqlite3": "^5.0.2"
+    }
+}
